@@ -1,4 +1,4 @@
-![Image that says projectvain.com](banner.png)
+![Gradient Background. Text: github.com/projectvain](banner.png)
 
 # Hello!
 
@@ -6,5 +6,5 @@
 
 ### There's not much public stuff here at the moment.
 
-https://projectvain.com
+## projectvain.com
 
