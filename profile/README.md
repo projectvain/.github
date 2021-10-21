@@ -1,4 +1,4 @@
-![Image that says projectvain.com](_2banner.png)
+![Image that says projectvain.com](banner.png)
 
 # Hello!
 
