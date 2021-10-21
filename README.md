@@ -1,3 +1,3 @@
 # Overview
 Overview (PUBLIC)
-![Gradient](_banner.png)
+![Gradient](_2banner.png)
